@@ -1,2 +1,2 @@
 # bootstrap1
-Ejercicio - Template responsive 
+celular/ tableta - Template responsive 
